@@ -7,4 +7,3 @@ We extend the construction of the normal cone of a closed embedding of schemes t
 ## Contact
 
 dhyan.aranha@gmail.com
-
