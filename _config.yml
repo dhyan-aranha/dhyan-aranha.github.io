@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Dhyan Aranha 
-inculde: website photo.jpg
 description: PhD student at SISSA
+
+url: "http://dhyan-aranha.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
