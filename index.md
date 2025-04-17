@@ -1,8 +1,20 @@
-## Preprints
 
-[The Intrinsic Normal Cone For Artin Stacks ](https://arxiv.org/abs/1909.07478) (Joint with [Piotr Pstrągowski](https://sites.math.northwestern.edu/~piotr/))
 
-We extend the construction of the normal cone of a closed embedding of schemes to any locally of finite type morphism of higher Artin stacks and show that in the Deligne-Mumford case our construction recovers the relative intrinsic normal cone of Behrend and Fantechi. We characterize our extension as the unique one satisfying a short list of axioms, and use it to construct the deformation to the normal cone. As an application of our methods, we associate to any morphism of Artin stacks equipped with a choice of a global perfect obstruction theory a relative virtual fundamental class in the Chow groups of Kresch.
+
+## Programming projects
+
+[Monsky's Theorem](https://github.com/dhyan-aranha/Monsky) (Joint with Pjotr Buys, Malvin Gattinger, Giacomo Grevink, Jan Hendriks, Thomas Koopman, Dion Leijnse, Thijs Maessen, Maris Ozols, Jonas van der Schaaf, Lenny Taelman )
+
+
+## Algebraic Geometry Research
+
+[The Chow Weight Structure for Geometric Motives of Quotient Stacks](https://arxiv.org/abs/2306.10557) (Joint with Chirantan Chowdury)
+
+[The Stacky Concentration Theorem](https://arxiv.org/abs/2407.08747) (Joint with Adeel Khan, Aloysha Latynsev, Hyeonjun Park and Charanya Ravi) 
+
+[Localization Theorems for Algebraic Stacks](https://arxiv.org/abs/2207.01652) (Joint with Adeel Khan, Aloysha Latynsev, Hyeonjun Park and Charanya Ravi)
+
+[The Intrinsic Normal Cone For Artin Stacks ](https://arxiv.org/abs/1909.07478) Annales de l’Institut Fourier. Also available at: https://aif.centre-mersenne.org/articles/10.5802/aif.3583/. (Joint with Piotr Pstrągowski)
 
 ## Contact
 
