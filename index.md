@@ -1,7 +1,7 @@
 
 
 
-## Programming projects
+## Programming Projects
 
 [Monsky's Theorem](https://github.com/dhyan-aranha/Monsky) (Joint with Pjotr Buys, Malvin Gattinger, Giacomo Grevink, Jan Hendriks, Thomas Koopman, Dion Leijnse, Thijs Maessen, Maris Ozols, Jonas van der Schaaf, Lenny Taelman )
 
